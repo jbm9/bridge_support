@@ -1,9 +1,6 @@
-.skel
-=====
+Bridge Support
+==============
 
-This is a skeleton project.  It needs better documentation.
+This is a very basic, rather unfortunate support for Brio-style
+wooden train tracks (and compatibles, which is a long list of things).
 
-Contents:
-
-web/ -- An empty website for this thing
-code/ -- An empty directory for code for this thing
